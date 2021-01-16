@@ -1,7 +1,10 @@
 # wmt_rtl_study
 My RTL8710 and RTL8720 study
 
-## 
+## amebaiot  
+https://www.amebaiot.com/cn/ameba-arduino-summary/  
+https://github.com/ambiot/ambd_sdk  
+https://github.com/ambiot/ambd_arduino  
 
 ## wio-terminal ambd  
 https://github.com/Seeed-Studio/ArduinoCore-ambd  
