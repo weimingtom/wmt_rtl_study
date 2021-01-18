@@ -9,6 +9,7 @@ https://github.com/ambiot/ambz2_sdk
 https://www.amebaiot.com/amebad-arduino-getting-started/  
 https://github.com/ambiot/ambd_arduino  
 https://github.com/ambiot/ambd_arduino/raw/master/Arduino_package/package_realtek.com_amebad_index.json  
+search baidupan, arduino_mirror, ambd  
 
 ## amebaiot  
 https://www.amebaiot.com/cn/ameba-arduino-summary/  
