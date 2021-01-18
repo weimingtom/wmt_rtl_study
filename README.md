@@ -29,3 +29,6 @@ https://github.com/Ameba8195/Arduino/raw/master/release/package_realtek.com_ameb
 
 ## RTL8720, with IAR8  
 search baidupan, sdk-ameba1-v3.4b3_without_NDA.zip  
+
+## 佳显电子  
+https://www.e-paper-display.cn/products_list/pmcId%3d34.html  
