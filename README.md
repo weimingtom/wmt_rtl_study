@@ -32,6 +32,7 @@ search baidupan, sdk-ameba1-v3.4b3_without_NDA.zip
 
 ## 佳显电子  
 https://www.e-paper-display.cn/products_list/pmcId%3d34.html  
+RTL8720CM, search baidupan, RTL8720CM_seeed  
 
 ## 九九物联, PG Tool    
 https://github.com/99iot/AFM201T  
