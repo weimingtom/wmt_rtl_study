@@ -36,3 +36,4 @@ https://www.e-paper-display.cn/products_list/pmcId%3d34.html
 ## 九九物联, PG Tool    
 https://github.com/99iot/AFM201T  
 http://club.szlcsc.com/article/details_40612_1.html  
+search baidupan, 00013772-AmebaZII_PGTool_v1.0.1.exe.zip  
