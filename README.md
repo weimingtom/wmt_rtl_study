@@ -38,3 +38,13 @@ RTL8720CM, search baidupan, RTL8720CM_seeed
 https://github.com/99iot/AFM201T  
 http://club.szlcsc.com/article/details_40612_1.html  
 search baidupan, 00013772-AmebaZII_PGTool_v1.0.1.exe.zip  
+
+## rtl8710AF / Ameba IoT  
+https://www.amebaiot.com/cn/ameba-arduino-getting-started-rtl8710/  
+https://www.amebaiot.com/cn/ameba-arduino-getting-started/  
+https://blog.csdn.net/lvj_158/article/details/51234751  
+https://www.amebaiot.com/cn/  
+SWD模式下下载调试程序  
+http://blog.sina.com.cn/s/blog_7ca994b801019ub1.html  
+PADUINO Padi Stamp Photo Blog with SWD and CH340g  
+https://forum.pine64.org/showthread.php?tid=5111  
